@@ -1,0 +1,19 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Backend
+backend/target/
+
+# Environment / secrets
+.env
+.env.*
+**/.env
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+backend/src/main/resources/application-local.properties

@@ -1,0 +1,2 @@
+### RESET PASSWORD
+PUT http://localhost:8080/api/users/reset-password?email=himmat3%40test.com&newPassword=NewPass123
